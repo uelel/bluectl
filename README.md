@@ -21,7 +21,7 @@ bluectl was tested on `archlinux` using `systemd` service manager and relevant b
 
 bluectl implements pairing and connecting of bluetooth devices as described on [wiki.archlinux.org](https://wiki.archlinux.org/index.php/Bluetooth).
 
-```bluectl [subcommands: create|status|start|stop|stop-all]```
+```python bluectl.py [subcommands: create|status|start|stop|stop-all]```
 
 #### Subcommands
 
